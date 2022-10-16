@@ -1,0 +1,318 @@
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\testhost.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\TaxiManagementAssignment.deps.json
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\TaxiManagementAssignment.runtimeconfig.json
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\TaxiManagementAssignment.runtimeconfig.dev.json
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\TaxiManagementAssignment.exe
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\testhost.exe
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\TaxiManagementTests.deps.json
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\TaxiManagementTests.runtimeconfig.json
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\TaxiManagementTests.runtimeconfig.dev.json
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\TaxiManagementTests.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ref\TaxiManagementTests.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\TaxiManagementTests.pdb
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\TaxiManagementAssignment.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\TaxiManagementAssignment.pdb
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\obj\Debug\net5.0\TaxiManagementTests.csproj.AssemblyReference.cache
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\obj\Debug\net5.0\TaxiManagementTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\obj\Debug\net5.0\TaxiManagementTests.AssemblyInfoInputs.cache
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\obj\Debug\net5.0\TaxiManagementTests.AssemblyInfo.cs
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\obj\Debug\net5.0\TaxiManagementTests.csproj.CoreCompileInputs.cache
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\obj\Debug\net5.0\TaxiManagementTests.csproj.CopyComplete
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\obj\Debug\net5.0\TaxiManagementTests.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\obj\Debug\net5.0\ref\TaxiManagementTests.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\obj\Debug\net5.0\TaxiManagementTests.pdb
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementTests\obj\Debug\net5.0\TaxiManagementTests.genruntimeconfig.cache
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\obj\Debug\net5.0\TaxiManagementTests.csproj.AssemblyReference.cache
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\obj\Debug\net5.0\TaxiManagementTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\obj\Debug\net5.0\TaxiManagementTests.AssemblyInfoInputs.cache
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\obj\Debug\net5.0\TaxiManagementTests.AssemblyInfo.cs
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\obj\Debug\net5.0\TaxiManagementTests.csproj.CoreCompileInputs.cache
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\obj\Debug\net5.0\TaxiManagementTests.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\obj\Debug\net5.0\ref\TaxiManagementTests.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\obj\Debug\net5.0\TaxiManagementTests.pdb
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\testhost.exe
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\testhost.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\TaxiManagementAssignment.deps.json
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\TaxiManagementAssignment.runtimeconfig.json
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\TaxiManagementAssignment.runtimeconfig.dev.json
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\TaxiManagementAssignment.exe
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\TaxiManagementTests.deps.json
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\TaxiManagementTests.runtimeconfig.json
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\TaxiManagementTests.runtimeconfig.dev.json
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\TaxiManagementTests.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ref\TaxiManagementTests.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\TaxiManagementTests.pdb
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\TaxiManagementAssignment.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\TaxiManagementAssignment.pdb
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\obj\Debug\net5.0\TaxiManagementTests.csproj.CopyComplete
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementTests\obj\Debug\net5.0\TaxiManagementTests.genruntimeconfig.cache
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\TaxiManagementAssignment.deps.json
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\TaxiManagementAssignment.runtimeconfig.json
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\TaxiManagementAssignment.runtimeconfig.dev.json
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\TaxiManagementAssignment.exe
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\testhost.exe
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\testhost.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\TaxiManagementTests.deps.json
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\TaxiManagementTests.runtimeconfig.json
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\TaxiManagementTests.runtimeconfig.dev.json
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\TaxiManagementTests.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\TaxiManagementTests.pdb
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\TaxiManagementAssignment.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\bin\Debug\net5.0\TaxiManagementAssignment.pdb
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\obj\Debug\net5.0\TaxiManagementTests.csproj.AssemblyReference.cache
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\obj\Debug\net5.0\TaxiManagementTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\obj\Debug\net5.0\TaxiManagementTests.AssemblyInfoInputs.cache
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\obj\Debug\net5.0\TaxiManagementTests.AssemblyInfo.cs
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\obj\Debug\net5.0\TaxiManagementTests.csproj.CoreCompileInputs.cache
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\obj\Debug\net5.0\TaxiManagementTests.csproj.CopyComplete
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\obj\Debug\net5.0\TaxiManagementTests.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\obj\Debug\net5.0\refint\TaxiManagementTests.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\obj\Debug\net5.0\TaxiManagementTests.pdb
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\obj\Debug\net5.0\TaxiManagementTests.genruntimeconfig.cache
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementTests\obj\Debug\net5.0\ref\TaxiManagementTests.dll

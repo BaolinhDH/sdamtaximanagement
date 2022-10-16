@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NtP7wgn+CL+Ylvlrb2GKUdcRwy1CzlHRQufQxiCPd3YqeuVl3IAZuEFKFyT0sX1FEwIR3MnUyDTzLDNkO5ah4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HH\\Documents\\Uni Work\\Software Development and Application Modeling\\TaxiManagementAssignment\\TaxiManagementAssignment\\TaxiManagementAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HH\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.26\\microsoft.netcore.app.host.win-x64.3.1.26.nupkg.sha512",
+    "C:\\Users\\HH\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\HH\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\HH\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

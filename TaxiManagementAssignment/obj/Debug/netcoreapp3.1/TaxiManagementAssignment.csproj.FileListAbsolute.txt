@@ -1,0 +1,42 @@
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\bin\Debug\netcoreapp3.1\TaxiManagementAssignment.exe
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\bin\Debug\netcoreapp3.1\TaxiManagementAssignment.deps.json
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\bin\Debug\netcoreapp3.1\TaxiManagementAssignment.runtimeconfig.json
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\bin\Debug\netcoreapp3.1\TaxiManagementAssignment.runtimeconfig.dev.json
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\bin\Debug\netcoreapp3.1\TaxiManagementAssignment.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\bin\Debug\netcoreapp3.1\TaxiManagementAssignment.pdb
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagementAssignment.csproj.AssemblyReference.cache
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagementAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagementAssignment.AssemblyInfoInputs.cache
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagementAssignment.AssemblyInfo.cs
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagementAssignment.csproj.CoreCompileInputs.cache
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagementAssignment.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagementAssignment.pdb
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagementAssignment.genruntimeconfig.cache
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementAssignment\bin\Debug\netcoreapp3.1\TaxiManagementAssignment.exe
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementAssignment\bin\Debug\netcoreapp3.1\TaxiManagementAssignment.deps.json
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementAssignment\bin\Debug\netcoreapp3.1\TaxiManagementAssignment.runtimeconfig.json
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementAssignment\bin\Debug\netcoreapp3.1\TaxiManagementAssignment.runtimeconfig.dev.json
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementAssignment\bin\Debug\netcoreapp3.1\TaxiManagementAssignment.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementAssignment\bin\Debug\netcoreapp3.1\TaxiManagementAssignment.pdb
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagementAssignment.csproj.AssemblyReference.cache
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagementAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagementAssignment.AssemblyInfoInputs.cache
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagementAssignment.AssemblyInfo.cs
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagementAssignment.csproj.CoreCompileInputs.cache
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagementAssignment.dll
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagementAssignment.pdb
+C:\Users\linh.dhb\Documents\sdam2\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagementAssignment.genruntimeconfig.cache
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagementAssignment.csproj.AssemblyReference.cache
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagementAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagementAssignment.AssemblyInfoInputs.cache
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagementAssignment.AssemblyInfo.cs
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagementAssignment.csproj.CoreCompileInputs.cache
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagementAssignment.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagementAssignment.pdb
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementAssignment\bin\Debug\netcoreapp3.1\TaxiManagementAssignment.exe
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementAssignment\bin\Debug\netcoreapp3.1\TaxiManagementAssignment.deps.json
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementAssignment\bin\Debug\netcoreapp3.1\TaxiManagementAssignment.runtimeconfig.json
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementAssignment\bin\Debug\netcoreapp3.1\TaxiManagementAssignment.runtimeconfig.dev.json
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementAssignment\bin\Debug\netcoreapp3.1\TaxiManagementAssignment.dll
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementAssignment\bin\Debug\netcoreapp3.1\TaxiManagementAssignment.pdb
+C:\Users\HH\Documents\Uni Work\Software Development and Application Modeling\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagementAssignment.genruntimeconfig.cache
